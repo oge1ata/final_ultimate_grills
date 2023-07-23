@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58905db9.css",
+    "main.js": "/static/js/main.e3d71444.js",
+    "static/media/heya.png": "/static/media/heya.0a146862045de08aa205.png",
+    "static/media/slide4.png": "/static/media/slide4.a4d455d5f2c08bbce7ff.png",
+    "static/media/mainpic2.png": "/static/media/mainpic2.3dfc4c8984c07b8ddfb7.png",
+    "static/media/slide6.png": "/static/media/slide6.88e331b3200690f443ad.png",
+    "static/media/slide1.png": "/static/media/slide1.83346ccf2c59a69ebe08.png",
+    "static/media/slide5.png": "/static/media/slide5.94b3e605bb8e81499cac.png",
+    "static/media/slide2.png": "/static/media/slide2.96026e99de686b66b127.png",
+    "static/media/slide3.png": "/static/media/slide3.bc41ee1379a3902a58f2.png",
+    "static/media/knifeRep.png": "/static/media/knifeRep.14bf2835af13753c3776.png",
+    "static/media/knifeRep2.png": "/static/media/knifeRep2.1f14f8b15976173784ef.png",
+    "static/media/cannot.png": "/static/media/cannot.8469cd88db7be3e67625.png",
+    "static/media/goat.jpeg": "/static/media/goat.982232530d343ca5b504.jpeg",
+    "static/media/pj1.jpeg": "/static/media/pj1.06302f507449d23b6f5b.jpeg",
+    "static/media/UG1.png": "/static/media/UG1.5d08bedae9b809a8eb24.png",
+    "static/media/ultimatehh.png": "/static/media/ultimatehh.3ec5bb125f23799a90e2.png",
+    "index.html": "/index.html",
+    "main.58905db9.css.map": "/static/css/main.58905db9.css.map",
+    "main.e3d71444.js.map": "/static/js/main.e3d71444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58905db9.css",
+    "static/js/main.e3d71444.js"
+  ]
+}
